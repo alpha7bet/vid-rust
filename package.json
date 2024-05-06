@@ -1,6 +1,6 @@
 {
   "name": "@alpha7bet/vid-rust",
-  "version": "1.0.63",
+  "version": "1.0.64",
   "description": "Description for vid-rust",
   "main": "src/index.js",
   "scripts": {
